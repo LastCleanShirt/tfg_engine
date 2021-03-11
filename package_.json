@@ -1,0 +1,25 @@
+{
+  "name": "tfg_engine",
+  "version": "1.0.1",
+  "description": "Turn-based Fight Console-based game engine",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gameengine",
+    "game",
+    "engine",
+    "engine",
+    "game",
+    "console"
+  ],
+  "author": "lastcleanshirtdev",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "inquirer-loop": "^0.3.0",
+    "prompt": "^1.1.0",
+    "readline": "^1.3.0"
+  }
+}

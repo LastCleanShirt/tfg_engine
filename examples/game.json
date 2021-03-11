@@ -1,0 +1,17 @@
+{
+	"enemy": {
+		"health": 8,
+		"atkDmg": 1,
+		"heal": 2,
+		"name": "Enemy"
+	},
+	"player": {
+		"health": 8,
+		"atkDmg": 1,
+		"heal": 2,
+		"name": "Player"
+	},
+	"gameOverText": "Game Over!",
+	"playerWinText": "You win the game! congrats!",
+	"enemyWinText": "You lose, better luck next time!"
+}
